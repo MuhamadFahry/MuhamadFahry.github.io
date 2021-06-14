@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #4bec53;
+}
+
+#skill {
+  background-color: #4bec53;
+}
+
+h2 {
+  font-size: 25pt;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+section {
+  padding-top: 4.5rem;
+}
